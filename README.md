@@ -4,9 +4,9 @@
 Для нормальной работы приложения должна быть вначале запущена программа EasyEEG BCI (не менее v1.x) и нажата клавиша LSL (передача потока данных через протокол lab Streaming Layer)  
 Ссылка на репозиторий: https://github.com/LabDataIRV/EasyEEG_BCI
 
-Программа для ПК
+# Программа для ПК
 
-# версия 0.0a
+## версия 0.0a
 
 Windows https://www.dropbox.com/scl/fi/99nawbfoc0tlp598cjyni/LDBrainMusic_00a_win64.zip?rlkey=ymmc09jtltxt2gi3pu1lyx0ct&dl=0
 
