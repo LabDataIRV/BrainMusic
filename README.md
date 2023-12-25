@@ -12,6 +12,10 @@
 
 [Linux x64](https://www.dropbox.com/scl/fi/lnto3oj1622erzfvzftqq/LDBrainMusic_01a_linux64.zip?rlkey=ohduxwbpconjdq7brbe0mbseh&dl=0)
 
+Изменения:
+- Исправлено некорректное завершение звучания нот
+- Увеличен диапазон смены темпа
+
 ## версия 0.0a
 
 [Windows x64](https://www.dropbox.com/scl/fi/qk5soxhhmsfayckkh1xep/LDBrainMusic_00a_win64.zip?rlkey=veqam5aou02fpqfaivjtil4l5&dl=0)
