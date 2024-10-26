@@ -1,6 +1,8 @@
 # BrainMusic
 Приложение системы EasуEEG BCI для организации звуковой биологической обратной связи. 
 
+Страница проекта [Нейроинтерфейс EasyEEG BCI](https://labdata.ru/project/easyeeg-bci-project)
+
 Для нормальной работы приложения должна быть вначале запущена программа EasyEEG BCI (не менее v1.x) и нажата клавиша LSL (передача потока данных через протокол lab Streaming Layer)  
 Ссылка на репозиторий: https://github.com/LabDataIRV/EasyEEG_BCI
 
